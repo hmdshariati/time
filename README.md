@@ -13,7 +13,9 @@ methods:<br />
 	int getMinute();<br />
 </pre>
 private variables:<br />
+<pre>
 hour<br />
 minute<br />
+</pre>
 use Time.h and Time.cpp<br />
 
