@@ -1,6 +1,6 @@
 # Time
-first practice of c++\n
-A practice to write OOP in c++.\n
+first practice of c++<br />
+A practice to write OOP in c++.<br />
 main Class : Time\n
 methods:\n
 	Time(int h, int m);
