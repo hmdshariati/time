@@ -3,6 +3,7 @@ first practice of c++<br />
 A practice to write OOP in c++.<br />
 main Class : Time<br />
 methods:<br />
+<pre>
 	Time(int h, int m);<br />
 	Time(int h);<br />
 	Time();<br />
@@ -10,6 +11,9 @@ methods:<br />
 	void ChangeTime(int h);<br />
 	int getHour();<br />
 	int getMinute();<br />
-variables:<br />
+</pre>
+private variables:<br />
+hour<br />
+minute<br />
 use Time.h and Time.cpp<br />
 
