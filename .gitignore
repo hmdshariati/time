@@ -35,5 +35,5 @@
 *.swp
 
 # debug folders
-*/Debug/*
-*/Release/*
+Debug/*
+Release/*
