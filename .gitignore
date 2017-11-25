@@ -33,3 +33,7 @@
 
 # Vim swap
 *.swp
+
+# debug folders
+Debug
+Release
